@@ -5,7 +5,7 @@ function Navbar() {
   return (
     <nav className='m-auto px-5 md:px-24 lg:px-36 flex justify-between py-4 bg-[#CACACA]'>
         <div>
-            <p className='font-[300]'>Prathamesh.Writes</p>
+            <p className='font-[300] ' >Prathamesh.Writes</p>
         </div>
         <div >
             <ul className='hidden md:flex gap-7 font-serif'>

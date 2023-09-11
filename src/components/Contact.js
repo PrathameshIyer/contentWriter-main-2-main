@@ -2,11 +2,11 @@ import React from "react";
 
 function Contact() {
   return (
-    <div className="mx-auto px-5 md:px-24 lg:px-36 mt-20">
+    <div className="mx-auto px-5 md:px-24 lg:px-36 mt-20 ">
       <div className="md:flex ">
         <div className="basis-6/12 flex items-end">
           <div>
-            <p className="text-[400] text-[36px] text-[#0D1FA1]">Info</p>
+            <p className="text-[400] text-[36px] text-[#0D1FA1] ">Info</p>
             <div className="gap-4 flex mt-2 items-center">
               <span>
                 <svg
@@ -22,7 +22,7 @@ function Contact() {
                   />
                 </svg>
               </span>
-              <span>
+              <span className="font-family: 'Delicious Handrawn', cursive">
                 <a href="mailto:prathmiyer18@gmail.com"><p>prathmiyer18@gmail.com</p></a>
               </span>
             </div>

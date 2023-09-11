@@ -4,7 +4,7 @@ import React from 'react'
 function Hero() {
   return (
     <div className=" relative">
-      <Image src={"/assets/images/Union.png"} alt='logo' height="0" width="0" className='absolute w-full max-h-[850px]'  style={{zIndex: '-1'}}/>
+      <Image src={"/assets/images/Union.png"} alt='logo' height="0" width="0" className='absolute w-full max-h-[850px]'  style={{zIndex: '-1',fontFamily:''}} />
       <div className='text-center pt-10'>
         <p className='font-[400] text-[48px]'>Writing Website Copies That Brings Sales</p>
         <p className='font-[400] text-[18px]'>I have helped businesses bring 40% more leads with their online presence.<br />

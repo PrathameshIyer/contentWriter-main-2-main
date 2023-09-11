@@ -18,7 +18,7 @@ function Service() {
               <a href="#">
                 <h5 className="text-center mb-2 text-2xl font-bold tracking-tight">Website Copywriting</h5>
               </a>
-              <p className="mb-3 font-normal text-center ">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
+              <p className="mb-3 font-normal text-center ">My web copies aren't just words; they're pathways to conversion. Crafted with precision and infused with your brand's essence, my web copies wi; guide your visitors seamlessly from curiosity to action.</p>
 
             </div>
           </div>
@@ -46,7 +46,7 @@ function Service() {
             </a>
             <div className="p-5">
               <a href="#">
-                <h5 className="text-center mb-2 text-2xl font-bold tracking-tight">Website Copywriting</h5>
+                <h5 className="text-center mb-2 text-2xl font-bold tracking-tight">Fuel Your Blog</h5>
               </a>
               <p className="mb-3 font-normal text-center ">Transform your blog into a valuable resource with my insightful and informative blog posts.</p>
 
