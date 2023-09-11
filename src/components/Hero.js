@@ -4,16 +4,16 @@ import React from 'react'
 function Hero() {
   return (
     <div className=" relative">
-      <Image src={"/assets/images/Union.png"} alt='logo' height="0" width="0" className='absolute w-full max-h-[850px]'  style={{zIndex: '-1',fontFamily:''}} />
+      <Image src={"/assets/images/Union.png"} alt='logo' height="0" width="0" className='absolute w-full max-h-[850px]'  style={{zIndex: '-1'}} />
       <div className='text-center pt-10'>
-        <p className='font-[400] text-[48px]'>Writing Website Copies That Brings Sales</p>
+        <p className='font-[400] text-[48px] '>Writing Website Copies That Brings Sales</p>
         <p className='font-[400] text-[18px]'>I have helped businesses bring 40% more leads with their online presence.<br />
           Do you want to take your business to new heights?</p>
         <div className='mt-5'>
         
         
         <a href="https://calendly.com/flowingdesk/30min">
-        <button className='border border-black px-3 py-1 bg-black text-white rounded-md'>Book a Call</button>
+        <button className='border border-black px-3 py-1 bg-black text-white rounded-md font-[Alumni-Sans,sans-serif]'>Book a Call</button>
 </a>
         </div>  
         
@@ -27,8 +27,8 @@ function Hero() {
           <Image src='/assets/images/Maskgroup.png' alt='logo' width={2000} height={2000} className='md:min-h-[452px] md:min-w-[452px] h-auto w-auto' />
         </div>
         <div className='basis-6/12'>
-          <p className='text-[400] text-[48px] text-[#0D1FA1]'>Why Me</p>
-          <p className='text-[400] text-[28px]'>Your Success, My Priority</p>
+          <p className='text-[400] text-[48px] text-[#0D1FA1] font-[Lora,serif]'>Why Me</p>
+          <p className='text-[400] text-[28px] font-[Alumni-Sans,sans-serif]'>Your Success, My Priority</p>
           <p className='text-[400] text-[18px]'>I dont just write, I craft experiences. Choosing me means choosing a partner committed to delivering exceptional content that aligns with your brands goals and drives real results.
           </p>
 
@@ -62,18 +62,18 @@ function Hero() {
             <span className='flex flex-col justify-center items-center'>
               <div className='flex flex-col items-center justify-center'>
                 <Image src='/assets/images/image1.png' alt='spark' width={200} height={200} className='h-[110px] w-[110px]' />
-            <p className='text-[500] text-[28px]'>Faster Delivery</p>
+            <p className='text-[500] text-[28px] font-[Alumni-Sans,sans-serif]'>Faster Delivery</p>
             <p className='text-center'>Get your copy written fast and to <br/> your satisfaction.</p>
               </div>
             </span>
             <span className='flex flex-col justify-center items-center'>
             <Image src='/assets/images/image3.png' alt='spark' width={200} height={200} className='h-[120px] w-[230px]' />
-            <p className='text-[500] text-[28px] text-center'>Sales Machine Copy</p>
+            <p className='text-[500] text-[28px] text-center font-[Alumni-Sans,sans-serif]'>Sales Machine Copy</p>
             <p className='text-center'>I am the sales copywriter who can<br/> help you take your business to the<br /> next level.</p>
             </span>
             <span className='flex flex-col justify-center items-center'>
             <Image src='/assets/images/image2.png' alt='spark' width={200} height={200} className='h-[169px] w-[169px]' />
-            <p className='text-[500] text-[28px] text-center'>Originality</p>
+            <p className='text-[500] text-[28px] text-center font-[Alumni-Sans,sans-serif]'>Originality</p>
             <p className='text-center'>I am not afraid to think outside the boxs.</p>
             </span>
           </div>

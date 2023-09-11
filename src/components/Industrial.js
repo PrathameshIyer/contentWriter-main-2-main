@@ -6,13 +6,13 @@ function Industrial() {
     <div className='m-auto px-5 md:px-24 lg:px-36 my-10'>
         <div className='md:flex'>
               <div className='basis-6/12 '>
-                  <p className='text-[48px] text-[400] text-[#0D1FA1]'>Industries I Work In</p>
+                  <p className='text-[48px] text-[400] text-[#0D1FA1] font-[Lora,serif]'>Industries I Work In</p>
                   <p className='text-[14px] text-[400] '>
                       A Content Writer based in the heart of India.<br />
                       I specialize in crafting exceptional words that help<br/> businesses flourish by attracting more customers and boosting sales.
                   </p>
                   <div className='mt-5'>
-          <button className='border border-black px-3 py-1 bg-black text-white rounded-md'><a href="https://calendly.com/flowingdesk/30min">Book a Call</a></button>  
+          <button className='border border-black px-3 py-1 bg-black text-white rounded-md'><a href="https://calendly.com/flowingdesk/30min font-[Alumni-Sans,sans-serif] font-[600]">Book a Call</a></button>  
         </div>  
                   {/* <p className='mt-5  '><span className='text-[18px] rounded-md text-[500] text-white bg-black px-4 py-4'>
                   Tell Us Your Requirements

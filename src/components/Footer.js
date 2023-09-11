@@ -6,21 +6,21 @@ function Footer() {
       <div className='mx-auto lg:px-36 md:px-24 py-5 px-8  border-t border-black mt-10 '>
        <div className='flex flex-col md:flex-row md:justify-center md:items-center'>
         <div className='basis-6/12'>
-          <p className='text-[500] text-[28px]'>Prathamesh.Writes</p>
-          <p className='text-[400] text-[17px]'>Writing Copies That Turn Your<br /> Website into Sales Machine!</p>
+          <p className='text-[500] text-[28px] font-[Nunito-Sans,sans-serif]'>Prathamesh.Writes</p>
+          <p className='text-[400] text-[17px] font-[Nunito-Sans,sans-serif]'>Writing Copies That Turn Your<br /> Website into Sales Machine!</p>
         </div>
         <div className='basis-6/12'>
           <div className='md:flex justify-end gap-10'>
 
-          <ul className='mt-5 md:mt-0'>
-              <li className='text-[600] text-[19px]'>Explore</li>
-              <li>Home</li>
+          <ul className='mt-5 md:mt-0 font-[Nunito-Sans,sans-serif] '>
+              <li className='text-[600] text-[19px] font-[Nunito-Sans,sans-serif]'>Explore</li>
+              <li >Home</li>
               <li>About</li>
               
 
             </ul>
 
-            <ul className='mt-5 md:mt-0'>
+            <ul className='mt-5 md:mt-0 font-[Nunito-Sans,sans-serif]'>
               <li className='text-[600] text-[19px]'>Other Links</li>
               <li>Services</li>
               <li>Work Samples</li>
@@ -38,7 +38,7 @@ function Footer() {
     </div>
 
     <div className='mx-auto px-5 md:px-24 lg:px-36 border-t-2 border-black'>
-      <div className='flex flex-col md:flex-row justify-between items-center'>
+      <div className='flex flex-col md:flex-row justify-between items-center font-[Alumni-Sans,sans-serif]'>
         <div><p>Terms & Conditions</p></div>
         <div><p>2023. Prathaesh.writes</p></div>
           <div className='flex justify-center items-center gap-5'>

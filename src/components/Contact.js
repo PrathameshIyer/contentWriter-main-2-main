@@ -6,7 +6,7 @@ function Contact() {
       <div className="md:flex ">
         <div className="basis-6/12 flex items-end">
           <div>
-            <p className="text-[400] text-[36px] text-[#0D1FA1] ">Info</p>
+            <p className="text-[400] text-[36px] text-[#0D1FA1] font-[Lora,serif] ">Info</p>
             <div className="gap-4 flex mt-2 items-center">
               <span>
                 <svg
@@ -22,7 +22,7 @@ function Contact() {
                   />
                 </svg>
               </span>
-              <span className="font-family: 'Delicious Handrawn', cursive">
+              <span className="ffont-[Alumni-Sans,sans-serif]">
                 <a href="mailto:prathmiyer18@gmail.com"><p>prathmiyer18@gmail.com</p></a>
               </span>
             </div>
@@ -45,7 +45,7 @@ function Contact() {
                 <a href="tel:97666 32661"><p>+91 97666 32661</p></a>
               </span>
             </div>
-            <div className="gap-4 flex mt-2 items-center">
+            <div className="gap-4 flex mt-2 items-center font-[Alumni-Sans,sans-serif]">
               <span>
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -64,7 +64,7 @@ function Contact() {
                 <p>Bengaluru, Karnataka.</p>
               </span>
             </div>
-            <div className="gap-4 flex mt-2 items-center">
+            <div className="gap-4 flex mt-2 items-center font-[Alumni-Sans,sans-serif]">
               <span>
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -89,10 +89,10 @@ function Contact() {
           </div>
         </div>
         <div className="basis-6/12">
-          <p className="text-[400] text-[20px]">
+          <p className="text-[400] text-[20px] font-[Alumni-Sans,sans-serif]">
             Ready to elevate your brands communication game?
           </p>
-          <p className="text-[500] text-[48px] text-[#0D1FA1]">
+          <p className="text-[500] text-[48px] text-[#0D1FA1] font-[Lora,serif]">
             Get In Touch With Me
           </p>
           <form action="https://formspree.io/f/moqowbwe"

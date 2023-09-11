@@ -24,17 +24,12 @@
 }
 
 body{
-  /* font-family: 'Alumni Sans', sans-serif; */
-/* font-family: 'Delicious Handrawn', cursive; */
-/* font-family: 'Lora', serif; */
-/* font-family: 'Nunito Sans', sans-serif; */
-}
-.font-\[300\]{
-  font-weight: 700;
-  font-family: 'Delicious Handrawn', cursive;
+  /* font-family: 'Alumni Sans', sans-serif;
+font-family: 'Delicious Handrawn', cursive;
+font-family: 'Lora', serif;
+font-family: 'Nunito Sans', sans-serif; */
+font-family: ui-sans-serif, system-ui, 'apple-system', 'BlinkMacSystemFont', "Segoe UI", 'Roboto', "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji",'Alumni Sans','Delicious-Handrawn', 'cursive', 'Lora','Nunito-Sans';
 
-  
-  
 }
 
 

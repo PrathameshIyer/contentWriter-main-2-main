@@ -17,7 +17,7 @@ function Slider() {
   return (
     <div className='mx-auto px-5 md:px-24 lg:px-36 my-12 hidden md:block'>
 
-      <p className='text-[400] text-[48px] text-[#0D1FA1]'>Raving Client Testimonials</p>
+      <p className='text-[400] text-[48px] text-[#0D1FA1] font-[Lora,serif]'>Raving Client Testimonials</p>
 
       <p className='text-[400] text-[20px]'>My satisfied clients are a testament to the quality of my services. Dont just take my word for it read what my clients have to say about their experience working with me.</p>
         <Swiper

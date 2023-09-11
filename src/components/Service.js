@@ -5,8 +5,8 @@ function Service() {
   return (
     <div className='m-auto px-5 md:px-24 lg:px-36 '>
       <p className='m-20'></p>
-      <p className='text-[400] text-[48px] text-[#0D1FA1] text-center'>Services I Offer</p>
-      <p className='text-[400] text-[28px] text-center'>Your Success, My Priority</p>
+      <p className='text-[400] text-[48px] text-[#0D1FA1] text-center font-[Lora,serif]'>Services I Offer</p>
+      <p className='text-[400] text-[28px] text-center font-[Alumni-Sans,sans-serif]'>Your Success, My Priority</p>
       <div className='flex flex-col md:flex-row items-center md:items-start   justify-center md:justify-around mt-10 gap-3'>
         <span>
 
